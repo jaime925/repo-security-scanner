@@ -1,4 +1,0 @@
-elastalert
-notifications_python_client
-pytest
-requests_mock
